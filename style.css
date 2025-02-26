@@ -1,0 +1,32 @@
+body {
+    background-color: rgb(169, 197, 224);
+}
+
+.centralizar {
+    max-width: 660px;
+    margin: 0 auto;
+}
+
+.amarela {
+    background-color: rgb(100, 100, 58);
+    padding: 100px;
+    margin: 10px;
+    box-sizing: border-box;
+}
+
+.esticar {
+    padding-right: 320px;
+}
+
+.alongar {
+    padding-top: 300px;
+}
+
+
+.flex {
+    display: flex;
+}
+.limite{
+    height: 100px;
+    max-width: 640px;
+}
