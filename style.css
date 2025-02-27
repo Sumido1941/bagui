@@ -1,21 +1,22 @@
 body {
-    background-color: rgb(169, 197, 224);
+    background: linear-gradient(320deg, #8d3232, #bbaa27, #65817c);
+    max-width: auto ;
 }
-
 .centralizar {
     max-width: 660px;
     margin: 0 auto;
 }
 
 .amarela {
-    background-color: rgb(100, 100, 58);
-    padding: 100px;
+    background: linear-gradient(320deg, #eb92eb, #ffef78, #63c9b4);
+    padding: 97px;
     margin: 10px;
     box-sizing: border-box;
+    border-style: solid;
 }
 
 .esticar {
-    padding-right: 320px;
+    padding-right: 300px;
 }
 
 .alongar {
