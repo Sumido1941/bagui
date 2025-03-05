@@ -8,11 +8,13 @@ body {
 }
 
 .amarela {
+    
     background: linear-gradient(320deg, #eb92eb, #ffef78, #63c9b4);
     padding: 97px;
     margin: 10px;
     box-sizing: border-box;
     border-style: solid;
+    
 }
 
 .esticar {
